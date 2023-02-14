@@ -1,9 +1,9 @@
-title: Code Perfect
+title: ECO3Dxx
 author:
   name: Chang Liao
   email: changliao.climate@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  A better world for developer/modeler/programmer/coder.
+  Kokkos-based 3D land surface model
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
